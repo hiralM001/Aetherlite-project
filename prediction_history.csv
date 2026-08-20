@@ -1,0 +1,5 @@
+timestamp,solar_wind,bz,proton,storm_prob,level,navic_risk,grid_risk,sat_risk,source
+2026-08-20 15:59:07,450.0,-5.0,8.0,71.9,Strong,High,High,High,Manual
+2026-08-20 16:01:48,558.9,2.84,5.47,81.0,Strong,High,High,High,Live NOAA (SOLAR1)
+2026-08-20 16:07:05,450.0,-5.0,8.0,71.9000015258789,Strong,High,High,High,Manual
+2026-08-20 16:14:38,561.9,2.63,5.37,85.5,Strong,High,High,High,Live NOAA (SOLAR1)
