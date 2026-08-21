@@ -93,7 +93,7 @@ python app.py
 
 Open your browser and navigate to:
 
-- **Main Dashboard**: http://localhost:5000
+- **Main Dashboard**: https://aetherlite-project-ehaceuxwfwyfhbdd7txgqh.streamlit.app/
 
 ---
 
