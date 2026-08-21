@@ -1,4 +1,3 @@
-# AetherGuard-INDIA
 # 🌌 AetherGuard-INDIA
 
 **AI-Powered Space Weather Prediction & Impact Assessment System**
@@ -93,7 +92,7 @@ python app.py
 
 Open your browser and navigate to:
 
-- **Main Dashboard**: https://aetherlite-project-ehaceuxwfwyfhbdd7txgqh.streamlit.app/
+- **Main Dashboard**: http://localhost:5000
 
 ---
 
